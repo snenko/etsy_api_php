@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UdariSettings">
+    <option name="pathToMagento" value="$PROJECT_DIR$/../../newtest.kaeltetechnikshop.loc/public_html" />
+  </component>
+</project>
